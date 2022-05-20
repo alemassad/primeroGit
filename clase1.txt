@@ -1,4 +1,0 @@
-esta es una prueba GIT
-agrego segunda linea
-tercera linea
-y cuarta de prueba
